@@ -158,7 +158,3 @@ Your word is worth {score} points!!'''
 
 
 run_program()
-
-
-
-
